@@ -1,0 +1,27 @@
+body{
+    color:rgb(7, 71, 143);
+    background: aliceblue;
+    margin: 0px;
+    font-family:"Playfair Display", sans-serif;
+}
+
+header{
+    border-bottom: solid 3px blue;
+    padding: 20px;
+    font-size: 32px;
+    color: black;
+}
+ 
+section{
+    background: rgb(182, 220, 245);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
+
+
